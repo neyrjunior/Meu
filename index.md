@@ -15,5 +15,8 @@ De fato, ela é.
   * isso mesmo
 === 
 ### MAS TU É CHATO
-- [] pq sim
+- [ ] pq sim
 - [x] só aceita   
+===
+
+a acesse o link (neyrjunior.github.io/Meu)
